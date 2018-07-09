@@ -1,0 +1,152 @@
+[
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-001",
+    "hallNumber": "1"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-002",
+    "hallNumber": "2"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-003",
+    "hallNumber": "3"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-004",
+    "hallNumber": "4"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-005",
+    "hallNumber": "5"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-006",
+    "hallNumber": "6"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-007",
+    "hallNumber": "7"
+  },
+  {
+    "type": "OwnerMachine",
+    "manufactureNumber": "020815-008",
+    "hallNumber": "8"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123163",
+    "hallNumber": "9"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "97224",
+    "hallNumber": "10"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123162",
+    "hallNumber": "11"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "97223",
+    "hallNumber": "12"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123168",
+    "hallNumber": "13"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123167",
+    "hallNumber": "14"
+  },
+  {
+    "type": "CTMachine",
+    "manufactureNumber": "130913-004",
+    "hallNumber": "15"
+  },
+  {
+    "type": "CTMachine",
+    "manufactureNumber": "130104-007",
+    "hallNumber": "16"
+  },
+  {
+    "type": "CTMachine",
+    "manufactureNumber": "130913-035",
+    "hallNumber": "17"
+  },
+  {
+    "type": "CTMachine",
+    "manufactureNumber": "130913-037",
+    "hallNumber": "18"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123170",
+    "hallNumber": "19"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123164",
+    "hallNumber": "20"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123171",
+    "hallNumber": "21"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123169",
+    "hallNumber": "22"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123165",
+    "hallNumber": "23"
+  },
+  {
+    "type": "EGTMachine",
+    "manufactureNumber": "123166",
+    "hallNumber": "24"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "25"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "26"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "27"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "28"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "29"
+  },
+  {
+    "type": "Roulette",
+    "manufactureNumber": "133827",
+    "hallNumber": "30"
+  }
+]

@@ -32,9 +32,9 @@ public class MachineCounterByDate {
     @Column(name = "mechanical_output")
     private int MechanicalOUT;
 
-    @NotNull
-    @ManyToOne()
-    @JoinColumn(name = "mashine_id")
+
+    @ManyToOne(fetch = FetchType.EAGER)
+    @JoinColumn(name = "machine_id",referencedColumnName = "id")
     private Machine machine;
 
     public MachineCounterByDate() {

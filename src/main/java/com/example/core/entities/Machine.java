@@ -24,7 +24,7 @@ public abstract class Machine {
     @Column(name = "hall_number")
     private int hallNumber;
 
-    @NotNull
+
     @OneToMany(mappedBy ="id",targetEntity = MachineCounterByDate.class)
     private List<MachineCounterByDate> machineCounterByDate;
 
